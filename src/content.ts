@@ -1,0 +1,1 @@
+console.log('Content script working on LinkedIn job page');
